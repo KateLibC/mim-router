@@ -18,7 +18,7 @@ Mario is Missing!
 
 
 Requirements
-============
+------------
 
 The route generator is written in Java and requires Java 7 at a minimum.  There
 are no software requirements outside of the JVM.  However, a beast of a computer
@@ -26,7 +26,7 @@ and a lot of patience are also strongly recommended, because...
 
 
 EXTREMELY IMPORTANT WARNING
-===========================
+---------------------------
 
 To minimize the time spent simulating suboptimal routes, the generator keeps a
 very large number of partially-completed routes in memory.  Because of this,
@@ -45,24 +45,24 @@ now that the program has been publicly released.
 
 
 Usage
-=====
+-----
 
 TODO Provide usage information once you've written that new loader.
 
 
 Interpreting Routes
-===================
+-------------------
 
 TODO Give some examples of the route output and explain what it means.
 
 
 Contact Information
-===================
+-------------------
 
 To report problems running the program or inaccuracies in its output, please
 use the GitHub Issues page at https://github.com/uusdfg/mim-router/issues
 
 For general comments or questions, message __sdfg at one of the following sites:
 
-Twitter:  https://twitter.com/__sdfg
-Speed Demos Archive forum:  https://forum.speeddemosarchive.com/profile/__sdfg.html
+* Twitter:  https://twitter.com/__sdfg
+* Speed Demos Archive forum:  https://forum.speeddemosarchive.com/profile/__sdfg.html
